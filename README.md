@@ -1,4 +1,6 @@
-I am Qendrim. 
+Hi, 
+
+I am Qendrim, a full-stack blockchain developer & software engineer. 
 
 I have worked on many DeFi and Dapps based on Ethereum Blockchain, and I have extensive experience developing and writing Smart Contracts for Ethereum Blockchain.
 
